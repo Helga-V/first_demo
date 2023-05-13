@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*КОНТЕНТ*/
+/*БЛОКИ 
+КОЛОНКИ*/
+.left_col {
+	float: left;
+	width: 825px;
+}
+
+.right_col {
+	float: right;
+	width: 255px;
+}
+
+.left_col_1 {
+	float: left;	
+	width: 253px;
+}
+
+.right_col_1 {
+	float: right;
+	width: 538px;
+}
+
+.statictic, .price, .banner_240_bottom, .events {
+	float: left;
+	width: 225px;
+	}
+
+.statictic, .price, .events {
+	margin-right: 30px;
+} 	
+
+/*ГЛАВНЫЕ НОВОСТИ*/
+.main_news {
+	float: left;
+}
+
+/*БАННЕР*/
+
+.banner_240_top img {
+	float: right;
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
